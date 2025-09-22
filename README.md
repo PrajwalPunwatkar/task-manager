@@ -29,6 +29,29 @@ It’s a foundational step toward building full-stack applications with persiste
 
 ---
 
+## 📦 How to Run
+
+### 1. Clone the project
+
+    ```bash
+    git clone https://github.com/your-username/task-manager.git
+    cd task-manager
+
+### 2. Open in IntelliJ IDEA
+
+- File → Open → Select the task-manager folder
+- Wait for Maven to import dependencies
+  
+### 3. Run the application
+
+- Open TaskManagerApplication.java
+- Click the green ▶️ button to run
+  
+### 4. Open the frontend
+- Go to http://localhost:8080/index.html in your browser
+
+---
+
 ## 🚀 Features
 
 - View all tasks (GET `/tasks`)  
